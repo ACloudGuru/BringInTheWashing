@@ -14,5 +14,5 @@ These files are distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS 
 
 You should never install anything in an AWS account that is not supported (i.e. written and support by you, verified and supported by you, or under a 3rd party support arrangement). To verify a ‘thing’ you could absolutely install it in an isolated test environment, but even then under a watchful eye, especially if the ‘thing’ is going to incur costs.
 
-### chenge record:
+### change record:
 

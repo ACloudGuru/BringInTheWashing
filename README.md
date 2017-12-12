@@ -7,7 +7,8 @@ Lab files for A Cloud Guru - Maker lab on image recognition
 
 Please note, this is provided as-is, neither I, nor A Cloud Guru support this code. If you do identify any errors, then please identify and we will attempt to fix on a best efforts basis.
 
-## IMPORTANT :: We recommend that you create a 'NEW' AWS Account for this workshop. Using an existing account could cause damage to the resources in that account.
+## IMPORTANT 
+We recommend that you create a 'NEW' AWS Account for this workshop. Using an existing account could cause damage to the resources in that account.
 
 These files are distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied
 

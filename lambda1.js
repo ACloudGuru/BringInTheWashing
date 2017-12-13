@@ -4,9 +4,6 @@ exports.handler = (event, context, callback) => {
     var bucket = event.Records[0].s3.bucket.name;
 	var filename = event.Records[0].s3.object.key;
 
-    // Labels to exclude (ie: notify us if anything apart from these appear)
-    
-
     console.log('Bucket ['+bucket+'], Key ['+ filename+'] region:'+process.env.AWS_REGION);
     
     // Configure Rekognition client

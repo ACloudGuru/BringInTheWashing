@@ -5,7 +5,7 @@ exports.handler = (event, context, callback) => {
     var knownItems = ['Backyard', 'Outdoors', 'Yard', 'Bench', 'Park Bench', 'Flora', 'Plant', 'Tree', 'Park', 
                   'Forest', 'Grove', 'Land', 'Nature', 'Vegetation', 'Pond', 'Water', 'Blossom', 'Path', 
                   'Pavement', 'Cherry Blossom', 'Flora', 'Flower', 'Plant', 'Fence', 'Lilac', 'Hedge', 'Harbor',
-                  'Port', 'Waterfront', 'Nature', 'Conifer', 'Urban', 'Flower Arrangement', 'Grove', 'Wilderness', '',
+                  'Port', 'Waterfront', 'Nature', 'Conifer', 'Urban', 'Flower Arrangement', 'Grove', 'Wilderness', 
                   'Ornament', 'Jar', 'Potted Plant', 'Pottery', 'Vase', 'Vine', 'Sidewalk', 'Ivy', 'Yew',
                   'Oak', 'Sycamore', 'Moss', 'Grass', 'Lupin', 'Resort', 'Hotel', 'Building', 'Flagstone',
                   'Bonsai', 'Tarmac', 'Walkway', 'Trail', 'Office Building', 'Aisle', 'Indoors', 'Human', 'People', 
